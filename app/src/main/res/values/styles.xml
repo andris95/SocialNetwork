@@ -1,11 +1,19 @@
 <resources>
 
     <!-- Base application theme. -->
-    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="AuthEditText" parent="Widget.AppCompat.EditText">
+        <item name="android:layout_marginTop">16dp</item>
+        <item name="android:padding">12dp</item>
+    </style>
+
+    <style name="ToolbarWhiteHomeIcon" parent="AppTheme">
+        <item name="android:textColorSecondary">@color/md_white_1000</item>
+    </style>
 </resources>

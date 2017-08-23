@@ -1,3 +1,43 @@
 <resources>
-    <string name="app_name">SocialNetwork</string>
+    <string name="app_name">NeverBored</string>
+
+    <!-- Authentication -->
+    <string name="hint_email">email address</string>
+    <string name="hint_password">password</string>
+    <string name="hint_first_name">first name</string>
+    <string name="hint_last_name">last name</string>
+    <string name="login">login</string>
+    <string name="link_to_login">Already registered. Sign in Me!</string>
+    <string name="signup_a_new_account">Don\'t have an account? Sign up!</string>
+    <string name="signup">Sign up</string>
+    <string name="sign_out">Sign out</string>
+    <string name="forgot_password">Forgot Your Password? Click here!</string>
+    <string name="signup_progress_title">Creating account</string>
+    <string name="signup_progress_content">Hold on, Your account is being created!</string>
+    <string name="sign_in_cancelled">Sign in cancelled</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="unknown_sign_in_response">Unknown Sign in response</string>
+
+    <!-- -->
+    <string name="chats">Chats</string>
+    <string name="chat_conversations">Chat conversations</string>
+    <string name="chat_message_hint">New message here...</string>
+    <!-- -->
+
+    <!-- -->
+    <string name="type_a_comment">Type a comment...</string>
+    <!-- -->
+
+    <!-- Error messages -->
+    <string name="invalid_email">The email address is invalid!</string>
+    <string name="invalid_password">The password is invalid! Your password should contain at least ...</string>
+    <string name="invalid_first_name">Invalid first name!</string>
+    <string name="invalid_last_name">Invalid last name!</string>
+
+    <string name="rate_confirmation" formatted="false">Please, confirm that You rated "\%s"\ for \%f"\ stars!</string>
+    <string name="capacity">Capacity: %d</string>
+
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent euismod ac orci a sollicitudin. Maecenas vehicula elit quis odio euismod, nec elementum sapien dictum. Nunc sed odio nunc. Curabitur mattis egestas felis sed fringilla. Integer pretium urna lorem, eget finibus diam ultrices ut. Etiam quis pulvinar mauris, quis aliquam tellus. Sed at ultrices odio, ut gravida magna. Aliquam velit mi, efficitur vitae ligula quis, sagittis vehicula nulla. Praesent ullamcorper nulla non rhoncus efficitur. Praesent fringilla metus ante, non rutrum eros laoreet quis. Donec sapien libero, feugiat id turpis sit amet, mollis hendrerit nulla. Donec at nunc imperdiet, suscipit libero id, gravida odio.</string>
+
 </resources>
